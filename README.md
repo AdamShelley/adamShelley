@@ -7,9 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [adamshelley.com](adamshelley.com)
 
-- 📫 How to reach me **adam.shelley18@gmail.com**
-
-
 <p align="left">
 </p>
 
