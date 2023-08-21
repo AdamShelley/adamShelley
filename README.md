@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, Swift**
 
-- 👨‍💻 All of my projects are available at [adamshelley.com](adamshelley.com)
+- 👨‍💻 All of my projects are available at [adamshelley.com](https://adamshelley.com)
 
 <p align="left">
 </p>
