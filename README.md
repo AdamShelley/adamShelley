@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LangAI](https://github.com/AdamShelley/lang-ai)
 
-- 🌱 I’m currently learning **Typescript, Angular**
+- 🌱 I’m currently learning **Typescript, Angular, NextJS**
 
 - 👨‍💻 All of my projects are available at [adamshelley.com](https://adamshelley.com)
 
