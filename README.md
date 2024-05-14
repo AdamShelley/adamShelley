@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A passionate developer from the UK</h3>
+<h3 align="center">A Web Developer from the UK</h3>
 
-- 🔭 I’m currently working on [LangAI](https://github.com/AdamShelley/lang-ai)
+- 🔭 I’m currently working on [Breathe](https://github.com/AdamShelley/breathe)
 
-- 🌱 I’m currently learning **Typescript, Angular, NextJS**
+- 🌱 I’m currently working with **Typescript, Angular, NextJS**
 
 - 👨‍💻 All of my projects are available at [adamshelley.com](https://adamshelley.com)
 
