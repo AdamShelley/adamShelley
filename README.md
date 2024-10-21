@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A Web Developer from the UK</h3>
 
-- 🔭 I’m currently working on DStruct
+- 💼 Working for an Energy Consultancy as a Web Developer
+  
+- 🔭 I’m currently working on D-Struct
 
 - 🌱 I’m currently working with **Typescript, Angular, NextJS**
 
