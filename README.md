@@ -3,7 +3,7 @@
 
 - 💼 Working for an Energy Consultancy as a Web Developer
   
-- 🔭 I’m currently working on D-Struct
+- 🔭 I’m currently working on Git-Pulse (A github client)
 
 - 🌱 I’m currently working with **Typescript, Angular, NextJS**
 
