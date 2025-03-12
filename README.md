@@ -2,8 +2,6 @@
 <h3 align="center">A Web Developer from the UK</h3>
 
 - 💼 Working for an Energy Consultancy as a Web Developer
-  
-- 🔭 I’m currently working on Git-Pulse (A github client)
 
 - 🌱 I’m currently working with **Typescript, Angular, NextJS**
 
